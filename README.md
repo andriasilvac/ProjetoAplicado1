@@ -42,4 +42,6 @@ WebDriver usando Python.
 - Visualização de Dados
 - Desenvolvimento de um Sistema de Recomendação
 
+## Apresentação do projeto
+https://www.youtube.com/watch?v=bEvOrmwLzXs
 
